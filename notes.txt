@@ -1,0 +1,4 @@
+Notes sur Git
+- Git permet de suivre les versions
+- Il facilite le travail en équipe
+
