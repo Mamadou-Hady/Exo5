@@ -1,2 +1,1 @@
-Contenu du fichier 2
-
+Contenu initial du fichier 2
